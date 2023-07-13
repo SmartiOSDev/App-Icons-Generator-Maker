@@ -1,17 +1,17 @@
 ## Privacy Policy
 
-Harshad Jadav built the Icon: Asset Catalog Creator app as a free app. This SERVICE is provided by Harshad Jadav at free cost and is intended for use as is.
+Harshad Jadav built the App Icons Generator & Maker app as a free app. This SERVICE is provided by Harshad Jadav at free cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. We are not collecting any personal your/users data. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Icon: Asset Catalog Creator unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at App Icons Generator & Maker unless otherwise defined in this Privacy Policy.
 
 
 **Data**
 
-This app access only your finder to save your app icon catalog. The developer of this application is not liable for any such things.
+This app access only your Download finder to save your app icon catalog. The developer of this application is not liable for any such things.
 This application doesn't send the data to any service and all the data are stored locally only.
 
 **Changes to This Privacy Policy**
