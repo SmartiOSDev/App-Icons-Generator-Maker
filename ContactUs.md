@@ -20,4 +20,4 @@ We require the following precise information to provide you with a solution to y
 
 Please be as detailed as possible. Only then can we ensure that we can solve your problem.
 
-Privacy Policy: https://github.com/SmartiOSDev/Icon-Asset-Catalog-Creator/blob/main/PrivacyPolicy.md
+Privacy Policy: https://github.com/SmartiOSDev/App-Icons-Generator-Maker/blob/main/PrivacyPolicy.md
