@@ -1,6 +1,6 @@
 ## Support / Contact
 
-If you have any other questions about an *Icon: Asset Catalog Creator* app, please contact:
+If you have any other questions about an *App Icons Generator & Maker* app, please contact:
 
 contactusiosapp@gmail.com OR post your quesitons and any issue on https://github.com/SmartiOSDev/Icon-Asset-Catalog-Creator/issues 
 (Please be patient while waiting for a reply as this is only a 1 man company and some answers to rare problems may require intense research)
